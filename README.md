@@ -6,8 +6,8 @@
 <!-- Here are some ideas to get you started: -->
 
 
-- 🔭 I’m currently working on just about anything.
-- 🌱 Doing full-time with .Net and C#.
+- 🔭 I’m currently working on projects using .Net and C#.
+- 🌱 Expanding my horizon by learning Wordpress and PHP with the mix of implementing a helping hand from the Ai's.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -23,11 +23,12 @@
 
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/JQuery-Logo.svg">
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
 
 
