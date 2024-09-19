@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on just about anything.
-- 🌱 I’m currently learning the in depth of JavaScript.
+- 🌱 Doing full-time with .Net and C#.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
